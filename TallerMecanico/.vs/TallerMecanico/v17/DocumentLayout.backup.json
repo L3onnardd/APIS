@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\tallermecanico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\tallermecanico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\repuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\repuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|c:\\users\\leonn\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\mecanicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E03D412-3532-4EC1-BFDD-2324BF031C25}|TallerMecanico\\TallerMecanico.csproj|solutionrelative:tallermecanico\\controllers\\mecanicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TallerMecanico",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\TallerMecanico.csproj",
+              "RelativeDocumentMoniker": "TallerMecanico\\TallerMecanico.csproj",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\TallerMecanico.csproj",
+              "RelativeToolTip": "TallerMecanico\\TallerMecanico.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T01:52:13.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Program.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Program.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Program.cs",
+              "RelativeToolTip": "TallerMecanico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:51:42.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepuestosController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\RepuestosController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\RepuestosController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\RepuestosController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\RepuestosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:33:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Servicio.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:20:03.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Factura.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:34:22.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:24:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Cliente.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:22:44.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Mecanico.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Mecanico.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Mecanico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:16:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repuesto.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Repuesto.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Repuesto.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Repuesto.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Repuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:27:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Taller.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Taller.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Taller.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Taller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:37:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Turno.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Turno.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Turno.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:25:42.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "TallerMecanico\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:55:28.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:04:17.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:26:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:21:26.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TallerController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\TallerController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\TallerController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\TallerController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\TallerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:37:47.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:35:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MecanicosController.cs",
+              "DocumentMoniker": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\MecanicosController.cs",
+              "RelativeDocumentMoniker": "TallerMecanico\\Controllers\\MecanicosController.cs",
+              "ToolTip": "C:\\Users\\leonn\\source\\repos\\TallerMecanico\\TallerMecanico\\Controllers\\MecanicosController.cs",
+              "RelativeToolTip": "TallerMecanico\\Controllers\\MecanicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:17:55.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

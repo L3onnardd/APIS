@@ -1,0 +1,170 @@
+{
+	"info": {
+		"_postman_id": "21e58f1f-c65f-4fbb-95d7-8e1dfdb3c0cf",
+		"name": "TallerMecanico",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45052119"
+	},
+	"item": [
+		{
+			"name": "vehiculos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/vehiculos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"vehiculos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "mecanicos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/mecanicos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"mecanicos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "servicios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/servicios",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"servicios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "clientes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/clientes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"clientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "turnos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/turnos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"turnos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Repuestos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/repuestos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"repuestos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "facturas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/facturas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"facturas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "taller",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5271/api/taller",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5271",
+					"path": [
+						"api",
+						"taller"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
